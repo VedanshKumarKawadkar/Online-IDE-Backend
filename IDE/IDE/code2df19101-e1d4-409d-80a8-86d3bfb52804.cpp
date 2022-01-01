@@ -1,0 +1,1 @@
+#include<iostream>\nusing namespace std;\n int main(){cout<<'Hello World!';return 0;}
